@@ -1,0 +1,140 @@
+package com.coveo.blitz;
+
+import java.util.Arrays;
+
+import org.apache.thrift.TException;
+import org.apache.thrift.protocol.TBinaryProtocol;
+import org.apache.thrift.protocol.TProtocol;
+import org.apache.thrift.server.TServer;
+import org.apache.thrift.server.TSimpleServer;
+import org.apache.thrift.transport.TServerSocket;
+import org.apache.thrift.transport.TServerTransport;
+import org.apache.thrift.transport.TSocket;
+import org.apache.thrift.transport.TTransport;
+import org.apache.thrift.transport.TTransportException;
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+import org.mockito.Mockito;
+
+public class IndexerTest
+{
+    private static final int SERVER_PORT = 9090;
+    private Indexer.Iface mockedIndexerServer;
+    private ServerRunner serverRunner;
+    private Thread serverThread;
+	protected int i;
+    
+    private class ServerRunner implements Runnable
+    {
+        private TServer server;
+        private boolean isRunning;
+
+        public boolean isRunning()
+        {
+            return isRunning;
+        }
+
+        public ServerRunner(TServer server)
+        {
+            this.server = server;
+        }
+
+        @Override
+        public void run()
+        {
+            isRunning = true;
+            server.serve();
+        }
+
+        public void stop()
+        {
+            server.stop();
+            isRunning = false;
+        }
+    }
+
+    @Before
+    public void spawnServer() throws TException
+    {
+        mockedIndexerServer = Mockito.mock(Indexer.Iface.class);
+        Mockito.when(mockedIndexerServer.query(Mockito.any(Query.class))).thenReturn(new QueryResponse());
+        
+        Indexer.Processor<Indexer.Iface> processor = new Indexer.Processor<Indexer.Iface>(mockedIndexerServer);
+        TServerTransport serverTransport = new TServerSocket(SERVER_PORT);
+        final TServer server = new TSimpleServer(new TSimpleServer.Args(serverTransport).processor(processor));
+
+        serverRunner = new ServerRunner(server);
+        serverThread = new Thread(serverRunner);
+        serverThread.setDaemon(true);
+        serverThread.start();
+    }
+
+    @After
+    public void tearDown() throws InterruptedException
+    {
+        if (serverRunner.isRunning()) {
+            serverRunner.stop();
+            serverThread.interrupt();
+        }
+    }
+
+    @Test
+    public void testLocalServerWithLocalClientCanDiscuss() throws TException
+    {
+        Indexer.Client indexerClient = createClient();
+        QueryTreeNode helloWorld = new QueryTreeNode();
+        helloWorld.setId(1);
+        helloWorld.setValue("Hello world!");
+        Query sentQuery = new Query(1, Arrays.asList(helloWorld));
+        indexerClient.query(sentQuery);
+
+        QueryTreeNode expectedQueryTreeNode = new QueryTreeNode();
+        helloWorld.setId(1);
+        expectedQueryTreeNode.setValue("Hello world!");
+        Query expectedQuery = new Query(1, Arrays.asList(helloWorld));
+        Mockito.verify(mockedIndexerServer).query(expectedQuery);
+    }
+
+    @Test
+    public void testThousandsOfQueries() throws TException
+    {
+        long startTime = System.currentTimeMillis();
+
+        Indexer.Client indexerClient = createClient();
+        int nbOfQueries = 20000;
+        for (int i = 0; i < nbOfQueries; i++) {
+            QueryTreeNode rootNode = new QueryTreeNode();
+            rootNode.setValue("Query " + i);
+            rootNode.setId(1);
+
+            indexerClient.query(new Query(1, Arrays.asList(rootNode)));
+        }
+
+        long endTime = System.currentTimeMillis();
+
+        System.out.println("Executed " + nbOfQueries + " queries in " + (endTime - startTime) + " ms.");
+        Mockito.verify(mockedIndexerServer, Mockito.times(nbOfQueries)).query(Mockito.any(Query.class));
+    }
+
+    @Test
+    public void testAndQuery() throws Exception
+    {
+        Indexer.Client indexerClient = createClient();
+        Query complexQuery = TestUtils.createPotatoAndSaladQuery();
+
+        indexerClient.query(complexQuery);
+
+        Mockito.verify(mockedIndexerServer, Mockito.times(1)).query(complexQuery);
+    }
+    
+    
+    private Indexer.Client createClient() throws TTransportException
+    {
+    	TTransport transport = new TSocket("wks-000134", SERVER_PORT);
+        transport.open();
+        TProtocol protocol = new TBinaryProtocol(transport);
+
+        return new Indexer.Client(protocol);
+    }
+}

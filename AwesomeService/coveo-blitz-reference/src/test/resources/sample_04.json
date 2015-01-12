@@ -1,0 +1,1945 @@
+{
+	"values" : {
+		"responsecode" : {
+			"200" : {
+				"count" : 85
+			},
+			"300" : {
+				"count" : 1
+			},
+			"304" : {
+				"count" : 13
+			},
+			"350" : {
+				"count" : 2
+			},
+			"500" : {
+				"count" : 2
+			}
+		},
+		"verb|responsecode|httpversion|date" : {
+			"GET|200|HTTP/1.0|15/May/1973" : {
+				"count" : 68,
+				"size" : 3285
+			},
+			"GET|200|HTTP/1.1|15/May/1973" : {
+				"count" : 17,
+				"size" : 2616
+			},
+			"GET|300|HTTP/1.0|15/May/1973" : {
+				"count" : 1,
+				"size" : 1927
+			},
+			"GET|304|HTTP/1.0|15/May/1973" : {
+				"count" : 7,
+				"size" : 429
+			},
+			"GET|304|HTTP/1.1|15/May/1973" : {
+				"count" : 6,
+				"size" : 0
+			},
+			"GET|350|HTTP/1.0|15/May/1973" : {
+				"count" : 2,
+				"size" : 1500
+			},
+			"GET|500|HTTP/1.0|15/May/1973" : {
+				"count" : 1,
+				"size" : 1927
+			},
+			"GET|500|HTTP/1.1|15/May/1973" : {
+				"count" : 1,
+				"size" : 8857
+			}
+		},
+		"requester" : {
+			"Bazinet The Chivalrous" : {
+				"count" : 1,
+				"size" : 8857
+			},
+			"Bedard The Avaricious" : {
+				"count" : 1,
+				"size" : 954
+			},
+			"Blob The Endurable" : {
+				"count" : 1,
+				"size" : 6507
+			},
+			"Brown The Unwieldy" : {
+				"count" : 1,
+				"size" : 8857
+			},
+			"Cat The Brave" : {
+				"count" : 2,
+				"size" : 1336
+			},
+			"Denis The Pleasant" : {
+				"count" : 1,
+				"size" : 231
+			},
+			"Dube The Alleged" : {
+				"count" : 2,
+				"size" : 1027
+			},
+			"Ego The Sour" : {
+				"count" : 1,
+				"size" : 892
+			},
+			"Erg-1 The Flat" : {
+				"count" : 2,
+				"size" : 197
+			},
+			"Gregg The Unbecoming" : {
+				"count" : 6,
+				"size" : 0
+			},
+			"Hancock The Melodic" : {
+				"count" : 1,
+				"size" : 3339
+			},
+			"Henry The Tiresome" : {
+				"count" : 1,
+				"size" : 1005
+			},
+			"Hercules The Big" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Humphrey The Powerless" : {
+				"count" : 1,
+				"size" : 7376
+			},
+			"Husk The Anchored" : {
+				"count" : 2,
+				"size" : 405
+			},
+			"Jack-Jack The Safe" : {
+				"count" : 1,
+				"size" : 937
+			},
+			"Lacroix The Heavenly" : {
+				"count" : 6,
+				"size" : 983
+			},
+			"Lady Bullseye The Round" : {
+				"count" : 1,
+				"size" : 31038
+			},
+			"Latreille The Illiterate" : {
+				"count" : 1,
+				"size" : 2140
+			},
+			"Lopez The Poorly Superior" : {
+				"count" : 3,
+				"size" : 3024
+			},
+			"Lothian The Gripping" : {
+				"count" : 1,
+				"size" : 8857
+			},
+			"Ly The Warped" : {
+				"count" : 4,
+				"size" : 2140
+			},
+			"Maccaig The Tempting" : {
+				"count" : 2,
+				"size" : 10713
+			},
+			"Macgeorge The Spanish" : {
+				"count" : 1,
+				"size" : 572
+			},
+			"Macknockater The Plaintive" : {
+				"count" : 3,
+				"size" : 920
+			},
+			"Maclagan The Well-Documented" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Man-Thing The Ludicrous" : {
+				"count" : 1,
+				"size" : 8857
+			},
+			"Marois The Unnatural" : {
+				"count" : 2,
+				"size" : 1523
+			},
+			"Mister Fantastic The Separate" : {
+				"count" : 2,
+				"size" : 1259
+			},
+			"Moore The Babyish" : {
+				"count" : 4,
+				"size" : 294
+			},
+			"Munn The Vivacious" : {
+				"count" : 1,
+				"size" : 8389
+			},
+			"Nightcrawler The Verifiable" : {
+				"count" : 11,
+				"size" : 2832
+			},
+			"Pigeon The Shocking" : {
+				"count" : 1,
+				"size" : 10763
+			},
+			"Pineault The Enraged" : {
+				"count" : 3,
+				"size" : 939
+			},
+			"Poissant The Required" : {
+				"count" : 5,
+				"size" : 1436
+			},
+			"Pratte The Exciting" : {
+				"count" : 2,
+				"size" : 434
+			},
+			"Rancourt The Past" : {
+				"count" : 1,
+				"size" : 269
+			},
+			"Rochette The Humongous" : {
+				"count" : 1,
+				"size" : 16450
+			},
+			"Rouillard The Eager" : {
+				"count" : 2,
+				"size" : 2033
+			},
+			"Sentry The Little" : {
+				"count" : 1,
+				"size" : 2909
+			},
+			"St-Jean The Naive" : {
+				"count" : 2,
+				"size" : 642
+			},
+			"Sylvestre The Feminine" : {
+				"count" : 2,
+				"size" : 865
+			},
+			"Valerie Hart The Neglected" : {
+				"count" : 1,
+				"size" : 19365
+			},
+			"Valiquette The Striking" : {
+				"count" : 1,
+				"size" : 2122
+			},
+			"Verret The Neat" : {
+				"count" : 3,
+				"size" : 928
+			},
+			"Wondra The Vengeful" : {
+				"count" : 4,
+				"size" : 722
+			},
+			"Zatanna The Broadly Cumbersome" : {
+				"count" : 5,
+				"size" : 4147
+			}
+		},
+		"requested" : {
+			"wikipedia/en/a/_/k/a_kid_for_two_farthings_(film)_b1ed.html" : {
+				"count" : 1,
+				"size" : 1466
+			},
+			"wikipedia/en/a/_/l/a_little_soap_and_water_00b5.html" : {
+				"count" : 1,
+				"size" : 856
+			},
+			"wikipedia/en/a/_/t/a_tiki_scare_is_no_fair_0929.html" : {
+				"count" : 1,
+				"size" : 183
+			},
+			"wikipedia/en/a/g/u/agust¡n_morales_c694.html" : {
+				"count" : 1,
+				"size" : 599
+			},
+			"wikipedia/en/a/i/b/aibetsu,_hokkaido_712f.html" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"wikipedia/en/a/i/j/aijaz_ali_69ba.html" : {
+				"count" : 1,
+				"size" : 869
+			},
+			"wikipedia/en/a/i/r/air-augmented_rocket.html" : {
+				"count" : 1,
+				"size" : 737
+			},
+			"wikipedia/en/a/k/a/akayev,_askar_2392.html" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"wikipedia/en/a/k/e/akersia.html" : {
+				"count" : 1,
+				"size" : 19365
+			},
+			"wikipedia/en/a/l/a/alan_sharpe_14aa.html" : {
+				"count" : 1,
+				"size" : 994
+			},
+			"wikipedia/en/a/l/b/alberto_colombo_9230.html" : {
+				"count" : 1,
+				"size" : 853
+			},
+			"wikipedia/en/a/l/e/alexander_du_toit_656b.html" : {
+				"count" : 1,
+				"size" : 778
+			},
+			"wikipedia/en/a/l/e/alexei_eremenko,_junior_9f03.html" : {
+				"count" : 1,
+				"size" : 646
+			},
+			"wikipedia/en/a/l/f/alf_padgham_2a7e.html" : {
+				"count" : 1,
+				"size" : 954
+			},
+			"wikipedia/en/a/l/i/alisha_sufit_4493.html" : {
+				"count" : 1,
+				"size" : 3899
+			},
+			"wikipedia/en/a/l/o/aloe_dichotoma.html" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"wikipedia/en/a/l/s/als¢-feh‚r_2852.html" : {
+				"count" : 1,
+				"size" : 3892
+			},
+			"wikipedia/en/a/l/t/category~alternate_wikipedia_accounts_of_deskana_7c42.html" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"wikipedia/en/a/m/a/amali da.html" : {
+				"count" : 1,
+				"size" : 1005
+			},
+			"wikipedia/en/a/m/e/america's_got_talent_1_9004.html" : {
+				"count" : 1,
+				"size" : 5907
+			},
+			"wikipedia/en/a/m/e/american_cheese_(album)_8826.html" : {
+				"count" : 1,
+				"size" : 513
+			},
+			"wikipedia/en/a/m/e/american_youth_soccer_organization_b00f.html" : {
+				"count" : 1,
+				"size" : 6040
+			},
+			"wikipedia/en/a/m/s/amstrad_pcw_843e.html" : {
+				"count" : 2,
+				"size" : 2672
+			},
+			"wikipedia/en/a/n/a/anarchism_(theory).html" : {
+				"count" : 2,
+				"size" : 446
+			},
+			"wikipedia/en/a/n/d/andrei_zhdanov_9129.html" : {
+				"count" : 1,
+				"size" : 7376
+			},
+			"wikipedia/en/a/n/d/andrei_zyyagintsev_f566.html" : {
+				"count" : 1,
+				"size" : 728
+			},
+			"wikipedia/en/a/n/d/andrew_fuller_dbce.html" : {
+				"count" : 1,
+				"size" : 159
+			},
+			"wikipedia/en/a/n/d/andr‚s_rivero_agero_1a00.html" : {
+				"count" : 1,
+				"size" : 591
+			},
+			"wikipedia/en/a/n/d/andy_moog_a85d.html" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"wikipedia/en/a/n/g/angle-preserving.html" : {
+				"count" : 1,
+				"size" : 16450
+			},
+			"wikipedia/en/a/n/g/category~anglican_bishops_of_cloyne_b83a.html" : {
+				"count" : 1,
+				"size" : 825
+			},
+			"wikipedia/en/a/n/t/antennae_galaxy_a739.html" : {
+				"count" : 1,
+				"size" : 6507
+			},
+			"wikipedia/en/a/n/t/anthony_ausgang_5b19.html" : {
+				"count" : 1,
+				"size" : 722
+			},
+			"wikipedia/en/a/n/t/anthony_j._celebrezze,_jr._2b90.html" : {
+				"count" : 1,
+				"size" : 572
+			},
+			"wikipedia/en/a/n/t/antichess.html" : {
+				"count" : 1,
+				"size" : 508
+			},
+			"wikipedia/en/a/n/t/antrim_(town),_new_hampshire_47a2.html" : {
+				"count" : 4,
+				"size" : 8857
+			},
+			"wikipedia/en/a/p/o/apollo_butterfly.html" : {
+				"count" : 1,
+				"size" : 31038
+			},
+			"wikipedia/en/a/p/r/apremont,_ain_fbab.html" : {
+				"count" : 1,
+				"size" : 3339
+			},
+			"wikipedia/en/a/r/c/arcade_publishing_7089.html" : {
+				"count" : 1,
+				"size" : 800
+			},
+			"wikipedia/en/a/r/c/archbishop_peter_talbot_f5a4.html" : {
+				"count" : 1,
+				"size" : 914
+			},
+			"wikipedia/en/a/r/c/archer_john_porter_martin_ff63.html" : {
+				"count" : 1,
+				"size" : 2476
+			},
+			"wikipedia/en/a/r/e/area_code_514.html" : {
+				"count" : 1,
+				"size" : 870
+			},
+			"wikipedia/en/a/r/g/arguisuelas.html" : {
+				"count" : 1,
+				"size" : 142
+			},
+			"wikipedia/en/a/r/g/argumentation_theory.html" : {
+				"count" : 1,
+				"size" : 3529
+			},
+			"wikipedia/en/a/r/s/arseny_koreshchenko_1af6.html" : {
+				"count" : 1,
+				"size" : 4270
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_4_good_habits_24d3.html" : {
+				"count" : 2,
+				"size" : 187
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_acid_philosophers_f5e3.html" : {
+				"count" : 1,
+				"size" : 10080
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_addicted_to_bass_7f9b.html" : {
+				"count" : 1,
+				"size" : 915
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_adrian_bamforth_6805.html" : {
+				"count" : 2,
+				"size" : 163
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_boredom_at_its_best_083f.html" : {
+				"count" : 1,
+				"size" : 793
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_cesidian_root_eed7.html" : {
+				"count" : 1,
+				"size" : 1687
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_chotch_8264.html" : {
+				"count" : 1,
+				"size" : 8389
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_erol_gng”r_b6b1.html" : {
+				"count" : 1,
+				"size" : 1397
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_euphanasia_59b5.html" : {
+				"count" : 1,
+				"size" : 236
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_fingle_bunny_c569.html" : {
+				"count" : 1,
+				"size" : 177
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_fob_productions_bdc5.html" : {
+				"count" : 1,
+				"size" : 751
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_glenn_given_191a.html" : {
+				"count" : 1,
+				"size" : 432
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_heavy_isotopes_2a5d.html" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_john_rushman_b4de.html" : {
+				"count" : 1,
+				"size" : 269
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_kadan_kingdom_9ac6.html" : {
+				"count" : 1,
+				"size" : 761
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_kenneth_j._hsu_8936.html" : {
+				"count" : 1,
+				"size" : 934
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_lists_of_irish-americans_f7bb.html" : {
+				"count" : 3,
+				"size" : 937
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_metropolitan_atlanta_rapid_transit_authority_bus_routes_71e0.html" : {
+				"count" : 1,
+				"size" : 670
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_nandeep_bamrah_c890.html" : {
+				"count" : 1,
+				"size" : 231
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_pia_cammarata_ae93.html" : {
+				"count" : 1,
+				"size" : 1189
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_race_against_time_23ef.html" : {
+				"count" : 1,
+				"size" : 704
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_roni_deutch_0c83.html" : {
+				"count" : 1,
+				"size" : 1050
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_the_formula_(2002)_c5db.html" : {
+				"count" : 1,
+				"size" : 3825
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_the_necklace_the_friendship_fbd9.html" : {
+				"count" : 1,
+				"size" : 235
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_uk_copyright_service_c020.html" : {
+				"count" : 5,
+				"size" : 1756
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_unconventional_theories_of_deindustrialization_9990.html" : {
+				"count" : 2,
+				"size" : 2122
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_united_states_60kb_a373.html" : {
+				"count" : 1,
+				"size" : 1139
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_wikipedia_awards_0900.html" : {
+				"count" : 1,
+				"size" : 1460
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_william-adolphe_bouguereau_gallery_2_2e9f.html" : {
+				"count" : 1,
+				"size" : 43
+			},
+			"wikipedia/en/a/s/h/ashrafiyya.html" : {
+				"count" : 1,
+				"size" : 1307
+			},
+			"wikipedia/en/a/s/t/astron_(spacecraft).html" : {
+				"count" : 1,
+				"size" : 164
+			},
+			"wikipedia/en/a/t/&/at&t_california_1e54.html" : {
+				"count" : 1,
+				"size" : 10763
+			},
+			"wikipedia/en/a/t/_/at_stewart_7fb0.html" : {
+				"count" : 1,
+				"size" : 914
+			},
+			"wikipedia/en/a/t/m/atmospheric_dispersion_model.html" : {
+				"count" : 1,
+				"size" : 965
+			},
+			"wikipedia/en/a/u/d/audio_electronics.html" : {
+				"count" : 1,
+				"size" : 982
+			},
+			"wikipedia/en/a/u/e/auenstein.html" : {
+				"count" : 3,
+				"size" : 1426
+			},
+			"wikipedia/en/a/u/s/ausa.html" : {
+				"count" : 1,
+				"size" : 7842
+			},
+			"wikipedia/en/a/u/s/australian_constitutional_law.html" : {
+				"count" : 1,
+				"size" : 2909
+			},
+			"wikipedia/en/a/u/s/australian_place_names_of_aboriginal_origin_0995.html" : {
+				"count" : 1,
+				"size" : 19967
+			},
+			"wikipedia/en/a/u/s/australian_referendum,_1906.html" : {
+				"count" : 1,
+				"size" : 3785
+			},
+			"wikipedia/en/a/u/t/autoconfiguration.html" : {
+				"count" : 1,
+				"size" : 5590
+			},
+			"wikipedia/en/a/v/a/category~avatars_of_captain_universe_54b0.html" : {
+				"count" : 1,
+				"size" : 187
+			}
+		},
+		"verb" : {
+			"GET" : {
+				"count" : 103,
+				"size" : 2782
+			}
+		},
+		"requester|requested" : {
+			"Bazinet The Chivalrous|wikipedia/en/a/n/t/antrim_(town),_new_hampshire_47a2.html" : {
+				"count" : 1,
+				"size" : 8857
+			},
+			"Bedard The Avaricious|wikipedia/en/a/l/f/alf_padgham_2a7e.html" : {
+				"count" : 1,
+				"size" : 954
+			},
+			"Blob The Endurable|wikipedia/en/a/n/t/antennae_galaxy_a739.html" : {
+				"count" : 1,
+				"size" : 6507
+			},
+			"Brown The Unwieldy|wikipedia/en/a/n/t/antrim_(town),_new_hampshire_47a2.html" : {
+				"count" : 1,
+				"size" : 8857
+			},
+			"Cat The Brave|wikipedia/en/a/m/s/amstrad_pcw_843e.html" : {
+				"count" : 1,
+				"size" : 2672
+			},
+			"Cat The Brave|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_4_good_habits_24d3.html" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Denis The Pleasant|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_nandeep_bamrah_c890.html" : {
+				"count" : 1,
+				"size" : 231
+			},
+			"Dube The Alleged|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_addicted_to_bass_7f9b.html" : {
+				"count" : 1,
+				"size" : 915
+			},
+			"Dube The Alleged|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_united_states_60kb_a373.html" : {
+				"count" : 1,
+				"size" : 1139
+			},
+			"Ego The Sour|wikipedia/en/a/n/a/anarchism_(theory).html" : {
+				"count" : 1,
+				"size" : 892
+			},
+			"Erg-1 The Flat|wikipedia/en/a/n/d/andrew_fuller_dbce.html" : {
+				"count" : 1,
+				"size" : 159
+			},
+			"Erg-1 The Flat|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_euphanasia_59b5.html" : {
+				"count" : 1,
+				"size" : 236
+			},
+			"Gregg The Unbecoming|wikipedia/en/a/i/b/aibetsu,_hokkaido_712f.html" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Gregg The Unbecoming|wikipedia/en/a/k/a/akayev,_askar_2392.html" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Gregg The Unbecoming|wikipedia/en/a/n/d/andy_moog_a85d.html" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Gregg The Unbecoming|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_adrian_bamforth_6805.html" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Gregg The Unbecoming|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_heavy_isotopes_2a5d.html" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Gregg The Unbecoming|wikipedia/en/a/u/e/auenstein.html" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Hancock The Melodic|wikipedia/en/a/p/r/apremont,_ain_fbab.html" : {
+				"count" : 1,
+				"size" : 3339
+			},
+			"Henry The Tiresome|wikipedia/en/a/m/a/amali da.html" : {
+				"count" : 1,
+				"size" : 1005
+			},
+			"Hercules The Big|wikipedia/en/a/n/a/anarchism_(theory).html" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Humphrey The Powerless|wikipedia/en/a/n/d/andrei_zhdanov_9129.html" : {
+				"count" : 1,
+				"size" : 7376
+			},
+			"Husk The Anchored|wikipedia/en/a/l/e/alexei_eremenko,_junior_9f03.html" : {
+				"count" : 1,
+				"size" : 646
+			},
+			"Husk The Anchored|wikipedia/en/a/s/t/astron_(spacecraft).html" : {
+				"count" : 1,
+				"size" : 164
+			},
+			"Jack-Jack The Safe|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_lists_of_irish-americans_f7bb.html" : {
+				"count" : 1,
+				"size" : 937
+			},
+			"Lacroix The Heavenly|wikipedia/en/a/_/l/a_little_soap_and_water_00b5.html" : {
+				"count" : 1,
+				"size" : 856
+			},
+			"Lacroix The Heavenly|wikipedia/en/a/i/r/air-augmented_rocket.html" : {
+				"count" : 1,
+				"size" : 737
+			},
+			"Lacroix The Heavenly|wikipedia/en/a/l/e/alexander_du_toit_656b.html" : {
+				"count" : 1,
+				"size" : 778
+			},
+			"Lacroix The Heavenly|wikipedia/en/a/n/g/category~anglican_bishops_of_cloyne_b83a.html" : {
+				"count" : 1,
+				"size" : 825
+			},
+			"Lacroix The Heavenly|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_erol_gng”r_b6b1.html" : {
+				"count" : 1,
+				"size" : 1397
+			},
+			"Lacroix The Heavenly|wikipedia/en/a/s/h/ashrafiyya.html" : {
+				"count" : 1,
+				"size" : 1307
+			},
+			"Lady Bullseye The Round|wikipedia/en/a/p/o/apollo_butterfly.html" : {
+				"count" : 1,
+				"size" : 31038
+			},
+			"Latreille The Illiterate|wikipedia/en/a/u/e/auenstein.html" : {
+				"count" : 1,
+				"size" : 2140
+			},
+			"Lopez The Poorly Superior|wikipedia/en/a/r/c/arcade_publishing_7089.html" : {
+				"count" : 1,
+				"size" : 800
+			},
+			"Lopez The Poorly Superior|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_glenn_given_191a.html" : {
+				"count" : 1,
+				"size" : 432
+			},
+			"Lopez The Poorly Superior|wikipedia/en/a/u/s/ausa.html" : {
+				"count" : 1,
+				"size" : 7842
+			},
+			"Lothian The Gripping|wikipedia/en/a/n/t/antrim_(town),_new_hampshire_47a2.html" : {
+				"count" : 1,
+				"size" : 8857
+			},
+			"Ly The Warped|wikipedia/en/a/_/k/a_kid_for_two_farthings_(film)_b1ed.html" : {
+				"count" : 1,
+				"size" : 1466
+			},
+			"Ly The Warped|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_pia_cammarata_ae93.html" : {
+				"count" : 1,
+				"size" : 1189
+			},
+			"Ly The Warped|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_unconventional_theories_of_deindustrialization_9990.html" : {
+				"count" : 1,
+				"size" : 2122
+			},
+			"Ly The Warped|wikipedia/en/a/u/s/australian_referendum,_1906.html" : {
+				"count" : 1,
+				"size" : 3785
+			},
+			"Maccaig The Tempting|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_wikipedia_awards_0900.html" : {
+				"count" : 1,
+				"size" : 1460
+			},
+			"Maccaig The Tempting|wikipedia/en/a/u/s/australian_place_names_of_aboriginal_origin_0995.html" : {
+				"count" : 1,
+				"size" : 19967
+			},
+			"Macgeorge The Spanish|wikipedia/en/a/n/t/anthony_j._celebrezze,_jr._2b90.html" : {
+				"count" : 1,
+				"size" : 572
+			},
+			"Macknockater The Plaintive|wikipedia/en/a/r/c/archbishop_peter_talbot_f5a4.html" : {
+				"count" : 1,
+				"size" : 914
+			},
+			"Macknockater The Plaintive|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_kenneth_j._hsu_8936.html" : {
+				"count" : 1,
+				"size" : 934
+			},
+			"Macknockater The Plaintive|wikipedia/en/a/t/_/at_stewart_7fb0.html" : {
+				"count" : 1,
+				"size" : 914
+			},
+			"Maclagan The Well-Documented|wikipedia/en/a/l/o/aloe_dichotoma.html" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Man-Thing The Ludicrous|wikipedia/en/a/n/t/antrim_(town),_new_hampshire_47a2.html" : {
+				"count" : 1,
+				"size" : 8857
+			},
+			"Marois The Unnatural|wikipedia/en/a/m/s/amstrad_pcw_843e.html" : {
+				"count" : 1,
+				"size" : 2672
+			},
+			"Marois The Unnatural|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_4_good_habits_24d3.html" : {
+				"count" : 1,
+				"size" : 374
+			},
+			"Mister Fantastic The Separate|wikipedia/en/a/r/c/archer_john_porter_martin_ff63.html" : {
+				"count" : 1,
+				"size" : 2476
+			},
+			"Mister Fantastic The Separate|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_william-adolphe_bouguereau_gallery_2_2e9f.html" : {
+				"count" : 1,
+				"size" : 43
+			},
+			"Moore The Babyish|wikipedia/en/a/r/g/arguisuelas.html" : {
+				"count" : 1,
+				"size" : 142
+			},
+			"Moore The Babyish|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_fingle_bunny_c569.html" : {
+				"count" : 1,
+				"size" : 177
+			},
+			"Moore The Babyish|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_metropolitan_atlanta_rapid_transit_authority_bus_routes_71e0.html" : {
+				"count" : 1,
+				"size" : 670
+			},
+			"Moore The Babyish|wikipedia/en/a/v/a/category~avatars_of_captain_universe_54b0.html" : {
+				"count" : 1,
+				"size" : 187
+			},
+			"Munn The Vivacious|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_chotch_8264.html" : {
+				"count" : 1,
+				"size" : 8389
+			},
+			"Nightcrawler The Verifiable|wikipedia/en/a/g/u/agust¡n_morales_c694.html" : {
+				"count" : 1,
+				"size" : 599
+			},
+			"Nightcrawler The Verifiable|wikipedia/en/a/m/e/america's_got_talent_1_9004.html" : {
+				"count" : 1,
+				"size" : 5907
+			},
+			"Nightcrawler The Verifiable|wikipedia/en/a/m/e/american_youth_soccer_organization_b00f.html" : {
+				"count" : 1,
+				"size" : 6040
+			},
+			"Nightcrawler The Verifiable|wikipedia/en/a/n/d/andrei_zyyagintsev_f566.html" : {
+				"count" : 1,
+				"size" : 728
+			},
+			"Nightcrawler The Verifiable|wikipedia/en/a/n/d/andr‚s_rivero_agero_1a00.html" : {
+				"count" : 1,
+				"size" : 591
+			},
+			"Nightcrawler The Verifiable|wikipedia/en/a/n/t/anthony_ausgang_5b19.html" : {
+				"count" : 1,
+				"size" : 722
+			},
+			"Nightcrawler The Verifiable|wikipedia/en/a/r/s/arseny_koreshchenko_1af6.html" : {
+				"count" : 1,
+				"size" : 4270
+			},
+			"Nightcrawler The Verifiable|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_acid_philosophers_f5e3.html" : {
+				"count" : 1,
+				"size" : 10080
+			},
+			"Nightcrawler The Verifiable|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_fob_productions_bdc5.html" : {
+				"count" : 1,
+				"size" : 751
+			},
+			"Nightcrawler The Verifiable|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_kadan_kingdom_9ac6.html" : {
+				"count" : 1,
+				"size" : 761
+			},
+			"Nightcrawler The Verifiable|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_race_against_time_23ef.html" : {
+				"count" : 1,
+				"size" : 704
+			},
+			"Pigeon The Shocking|wikipedia/en/a/t/&/at&t_california_1e54.html" : {
+				"count" : 1,
+				"size" : 10763
+			},
+			"Pineault The Enraged|wikipedia/en/a/r/e/area_code_514.html" : {
+				"count" : 1,
+				"size" : 870
+			},
+			"Pineault The Enraged|wikipedia/en/a/t/m/atmospheric_dispersion_model.html" : {
+				"count" : 1,
+				"size" : 965
+			},
+			"Pineault The Enraged|wikipedia/en/a/u/d/audio_electronics.html" : {
+				"count" : 1,
+				"size" : 982
+			},
+			"Poissant The Required|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_adrian_bamforth_6805.html" : {
+				"count" : 1,
+				"size" : 327
+			},
+			"Poissant The Required|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_uk_copyright_service_c020.html" : {
+				"count" : 4,
+				"size" : 1713
+			},
+			"Pratte The Exciting|wikipedia/en/a/i/j/aijaz_ali_69ba.html" : {
+				"count" : 1,
+				"size" : 869
+			},
+			"Pratte The Exciting|wikipedia/en/a/l/t/category~alternate_wikipedia_accounts_of_deskana_7c42.html" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Rancourt The Past|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_john_rushman_b4de.html" : {
+				"count" : 1,
+				"size" : 269
+			},
+			"Rochette The Humongous|wikipedia/en/a/n/g/angle-preserving.html" : {
+				"count" : 1,
+				"size" : 16450
+			},
+			"Rouillard The Eager|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_uk_copyright_service_c020.html" : {
+				"count" : 1,
+				"size" : 1927
+			},
+			"Rouillard The Eager|wikipedia/en/a/u/e/auenstein.html" : {
+				"count" : 1,
+				"size" : 2140
+			},
+			"Sentry The Little|wikipedia/en/a/u/s/australian_constitutional_law.html" : {
+				"count" : 1,
+				"size" : 2909
+			},
+			"St-Jean The Naive|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_roni_deutch_0c83.html" : {
+				"count" : 1,
+				"size" : 1050
+			},
+			"St-Jean The Naive|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_the_necklace_the_friendship_fbd9.html" : {
+				"count" : 1,
+				"size" : 235
+			},
+			"Sylvestre The Feminine|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_boredom_at_its_best_083f.html" : {
+				"count" : 1,
+				"size" : 793
+			},
+			"Sylvestre The Feminine|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_lists_of_irish-americans_f7bb.html" : {
+				"count" : 1,
+				"size" : 937
+			},
+			"Valerie Hart The Neglected|wikipedia/en/a/k/e/akersia.html" : {
+				"count" : 1,
+				"size" : 19365
+			},
+			"Valiquette The Striking|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_unconventional_theories_of_deindustrialization_9990.html" : {
+				"count" : 1,
+				"size" : 2122
+			},
+			"Verret The Neat|wikipedia/en/a/l/a/alan_sharpe_14aa.html" : {
+				"count" : 1,
+				"size" : 994
+			},
+			"Verret The Neat|wikipedia/en/a/l/b/alberto_colombo_9230.html" : {
+				"count" : 1,
+				"size" : 853
+			},
+			"Verret The Neat|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_lists_of_irish-americans_f7bb.html" : {
+				"count" : 1,
+				"size" : 937
+			},
+			"Wondra The Vengeful|wikipedia/en/a/_/t/a_tiki_scare_is_no_fair_0929.html" : {
+				"count" : 1,
+				"size" : 183
+			},
+			"Wondra The Vengeful|wikipedia/en/a/m/e/american_cheese_(album)_8826.html" : {
+				"count" : 1,
+				"size" : 513
+			},
+			"Wondra The Vengeful|wikipedia/en/a/n/t/antichess.html" : {
+				"count" : 1,
+				"size" : 508
+			},
+			"Wondra The Vengeful|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_cesidian_root_eed7.html" : {
+				"count" : 1,
+				"size" : 1687
+			},
+			"Zatanna The Broadly Cumbersome|wikipedia/en/a/l/i/alisha_sufit_4493.html" : {
+				"count" : 1,
+				"size" : 3899
+			},
+			"Zatanna The Broadly Cumbersome|wikipedia/en/a/l/s/als¢-feh‚r_2852.html" : {
+				"count" : 1,
+				"size" : 3892
+			},
+			"Zatanna The Broadly Cumbersome|wikipedia/en/a/r/g/argumentation_theory.html" : {
+				"count" : 1,
+				"size" : 3529
+			},
+			"Zatanna The Broadly Cumbersome|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_the_formula_(2002)_c5db.html" : {
+				"count" : 1,
+				"size" : 3825
+			},
+			"Zatanna The Broadly Cumbersome|wikipedia/en/a/u/t/autoconfiguration.html" : {
+				"count" : 1,
+				"size" : 5590
+			}
+		},
+		"requester|verb" : {
+			"Bazinet The Chivalrous|GET" : {
+				"count" : 1,
+				"size" : 8857
+			},
+			"Bedard The Avaricious|GET" : {
+				"count" : 1,
+				"size" : 954
+			},
+			"Blob The Endurable|GET" : {
+				"count" : 1,
+				"size" : 6507
+			},
+			"Brown The Unwieldy|GET" : {
+				"count" : 1,
+				"size" : 8857
+			},
+			"Cat The Brave|GET" : {
+				"count" : 2,
+				"size" : 1336
+			},
+			"Denis The Pleasant|GET" : {
+				"count" : 1,
+				"size" : 231
+			},
+			"Dube The Alleged|GET" : {
+				"count" : 2,
+				"size" : 1027
+			},
+			"Ego The Sour|GET" : {
+				"count" : 1,
+				"size" : 892
+			},
+			"Erg-1 The Flat|GET" : {
+				"count" : 2,
+				"size" : 197
+			},
+			"Gregg The Unbecoming|GET" : {
+				"count" : 6,
+				"size" : 0
+			},
+			"Hancock The Melodic|GET" : {
+				"count" : 1,
+				"size" : 3339
+			},
+			"Henry The Tiresome|GET" : {
+				"count" : 1,
+				"size" : 1005
+			},
+			"Hercules The Big|GET" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Humphrey The Powerless|GET" : {
+				"count" : 1,
+				"size" : 7376
+			},
+			"Husk The Anchored|GET" : {
+				"count" : 2,
+				"size" : 405
+			},
+			"Jack-Jack The Safe|GET" : {
+				"count" : 1,
+				"size" : 937
+			},
+			"Lacroix The Heavenly|GET" : {
+				"count" : 6,
+				"size" : 983
+			},
+			"Lady Bullseye The Round|GET" : {
+				"count" : 1,
+				"size" : 31038
+			},
+			"Latreille The Illiterate|GET" : {
+				"count" : 1,
+				"size" : 2140
+			},
+			"Lopez The Poorly Superior|GET" : {
+				"count" : 3,
+				"size" : 3024
+			},
+			"Lothian The Gripping|GET" : {
+				"count" : 1,
+				"size" : 8857
+			},
+			"Ly The Warped|GET" : {
+				"count" : 4,
+				"size" : 2140
+			},
+			"Maccaig The Tempting|GET" : {
+				"count" : 2,
+				"size" : 10713
+			},
+			"Macgeorge The Spanish|GET" : {
+				"count" : 1,
+				"size" : 572
+			},
+			"Macknockater The Plaintive|GET" : {
+				"count" : 3,
+				"size" : 920
+			},
+			"Maclagan The Well-Documented|GET" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Man-Thing The Ludicrous|GET" : {
+				"count" : 1,
+				"size" : 8857
+			},
+			"Marois The Unnatural|GET" : {
+				"count" : 2,
+				"size" : 1523
+			},
+			"Mister Fantastic The Separate|GET" : {
+				"count" : 2,
+				"size" : 1259
+			},
+			"Moore The Babyish|GET" : {
+				"count" : 4,
+				"size" : 294
+			},
+			"Munn The Vivacious|GET" : {
+				"count" : 1,
+				"size" : 8389
+			},
+			"Nightcrawler The Verifiable|GET" : {
+				"count" : 11,
+				"size" : 2832
+			},
+			"Pigeon The Shocking|GET" : {
+				"count" : 1,
+				"size" : 10763
+			},
+			"Pineault The Enraged|GET" : {
+				"count" : 3,
+				"size" : 939
+			},
+			"Poissant The Required|GET" : {
+				"count" : 5,
+				"size" : 1436
+			},
+			"Pratte The Exciting|GET" : {
+				"count" : 2,
+				"size" : 434
+			},
+			"Rancourt The Past|GET" : {
+				"count" : 1,
+				"size" : 269
+			},
+			"Rochette The Humongous|GET" : {
+				"count" : 1,
+				"size" : 16450
+			},
+			"Rouillard The Eager|GET" : {
+				"count" : 2,
+				"size" : 2033
+			},
+			"Sentry The Little|GET" : {
+				"count" : 1,
+				"size" : 2909
+			},
+			"St-Jean The Naive|GET" : {
+				"count" : 2,
+				"size" : 642
+			},
+			"Sylvestre The Feminine|GET" : {
+				"count" : 2,
+				"size" : 865
+			},
+			"Valerie Hart The Neglected|GET" : {
+				"count" : 1,
+				"size" : 19365
+			},
+			"Valiquette The Striking|GET" : {
+				"count" : 1,
+				"size" : 2122
+			},
+			"Verret The Neat|GET" : {
+				"count" : 3,
+				"size" : 928
+			},
+			"Wondra The Vengeful|GET" : {
+				"count" : 4,
+				"size" : 722
+			},
+			"Zatanna The Broadly Cumbersome|GET" : {
+				"count" : 5,
+				"size" : 4147
+			}
+		},
+		"requested|verb" : {
+			"wikipedia/en/a/_/k/a_kid_for_two_farthings_(film)_b1ed.html|GET" : {
+				"count" : 1,
+				"size" : 1466
+			},
+			"wikipedia/en/a/_/l/a_little_soap_and_water_00b5.html|GET" : {
+				"count" : 1,
+				"size" : 856
+			},
+			"wikipedia/en/a/_/t/a_tiki_scare_is_no_fair_0929.html|GET" : {
+				"count" : 1,
+				"size" : 183
+			},
+			"wikipedia/en/a/g/u/agust¡n_morales_c694.html|GET" : {
+				"count" : 1,
+				"size" : 599
+			},
+			"wikipedia/en/a/i/b/aibetsu,_hokkaido_712f.html|GET" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"wikipedia/en/a/i/j/aijaz_ali_69ba.html|GET" : {
+				"count" : 1,
+				"size" : 869
+			},
+			"wikipedia/en/a/i/r/air-augmented_rocket.html|GET" : {
+				"count" : 1,
+				"size" : 737
+			},
+			"wikipedia/en/a/k/a/akayev,_askar_2392.html|GET" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"wikipedia/en/a/k/e/akersia.html|GET" : {
+				"count" : 1,
+				"size" : 19365
+			},
+			"wikipedia/en/a/l/a/alan_sharpe_14aa.html|GET" : {
+				"count" : 1,
+				"size" : 994
+			},
+			"wikipedia/en/a/l/b/alberto_colombo_9230.html|GET" : {
+				"count" : 1,
+				"size" : 853
+			},
+			"wikipedia/en/a/l/e/alexander_du_toit_656b.html|GET" : {
+				"count" : 1,
+				"size" : 778
+			},
+			"wikipedia/en/a/l/e/alexei_eremenko,_junior_9f03.html|GET" : {
+				"count" : 1,
+				"size" : 646
+			},
+			"wikipedia/en/a/l/f/alf_padgham_2a7e.html|GET" : {
+				"count" : 1,
+				"size" : 954
+			},
+			"wikipedia/en/a/l/i/alisha_sufit_4493.html|GET" : {
+				"count" : 1,
+				"size" : 3899
+			},
+			"wikipedia/en/a/l/o/aloe_dichotoma.html|GET" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"wikipedia/en/a/l/s/als¢-feh‚r_2852.html|GET" : {
+				"count" : 1,
+				"size" : 3892
+			},
+			"wikipedia/en/a/l/t/category~alternate_wikipedia_accounts_of_deskana_7c42.html|GET" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"wikipedia/en/a/m/a/amali da.html|GET" : {
+				"count" : 1,
+				"size" : 1005
+			},
+			"wikipedia/en/a/m/e/america's_got_talent_1_9004.html|GET" : {
+				"count" : 1,
+				"size" : 5907
+			},
+			"wikipedia/en/a/m/e/american_cheese_(album)_8826.html|GET" : {
+				"count" : 1,
+				"size" : 513
+			},
+			"wikipedia/en/a/m/e/american_youth_soccer_organization_b00f.html|GET" : {
+				"count" : 1,
+				"size" : 6040
+			},
+			"wikipedia/en/a/m/s/amstrad_pcw_843e.html|GET" : {
+				"count" : 2,
+				"size" : 2672
+			},
+			"wikipedia/en/a/n/a/anarchism_(theory).html|GET" : {
+				"count" : 2,
+				"size" : 446
+			},
+			"wikipedia/en/a/n/d/andrei_zhdanov_9129.html|GET" : {
+				"count" : 1,
+				"size" : 7376
+			},
+			"wikipedia/en/a/n/d/andrei_zyyagintsev_f566.html|GET" : {
+				"count" : 1,
+				"size" : 728
+			},
+			"wikipedia/en/a/n/d/andrew_fuller_dbce.html|GET" : {
+				"count" : 1,
+				"size" : 159
+			},
+			"wikipedia/en/a/n/d/andr‚s_rivero_agero_1a00.html|GET" : {
+				"count" : 1,
+				"size" : 591
+			},
+			"wikipedia/en/a/n/d/andy_moog_a85d.html|GET" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"wikipedia/en/a/n/g/angle-preserving.html|GET" : {
+				"count" : 1,
+				"size" : 16450
+			},
+			"wikipedia/en/a/n/g/category~anglican_bishops_of_cloyne_b83a.html|GET" : {
+				"count" : 1,
+				"size" : 825
+			},
+			"wikipedia/en/a/n/t/antennae_galaxy_a739.html|GET" : {
+				"count" : 1,
+				"size" : 6507
+			},
+			"wikipedia/en/a/n/t/anthony_ausgang_5b19.html|GET" : {
+				"count" : 1,
+				"size" : 722
+			},
+			"wikipedia/en/a/n/t/anthony_j._celebrezze,_jr._2b90.html|GET" : {
+				"count" : 1,
+				"size" : 572
+			},
+			"wikipedia/en/a/n/t/antichess.html|GET" : {
+				"count" : 1,
+				"size" : 508
+			},
+			"wikipedia/en/a/n/t/antrim_(town),_new_hampshire_47a2.html|GET" : {
+				"count" : 4,
+				"size" : 8857
+			},
+			"wikipedia/en/a/p/o/apollo_butterfly.html|GET" : {
+				"count" : 1,
+				"size" : 31038
+			},
+			"wikipedia/en/a/p/r/apremont,_ain_fbab.html|GET" : {
+				"count" : 1,
+				"size" : 3339
+			},
+			"wikipedia/en/a/r/c/arcade_publishing_7089.html|GET" : {
+				"count" : 1,
+				"size" : 800
+			},
+			"wikipedia/en/a/r/c/archbishop_peter_talbot_f5a4.html|GET" : {
+				"count" : 1,
+				"size" : 914
+			},
+			"wikipedia/en/a/r/c/archer_john_porter_martin_ff63.html|GET" : {
+				"count" : 1,
+				"size" : 2476
+			},
+			"wikipedia/en/a/r/e/area_code_514.html|GET" : {
+				"count" : 1,
+				"size" : 870
+			},
+			"wikipedia/en/a/r/g/arguisuelas.html|GET" : {
+				"count" : 1,
+				"size" : 142
+			},
+			"wikipedia/en/a/r/g/argumentation_theory.html|GET" : {
+				"count" : 1,
+				"size" : 3529
+			},
+			"wikipedia/en/a/r/s/arseny_koreshchenko_1af6.html|GET" : {
+				"count" : 1,
+				"size" : 4270
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_4_good_habits_24d3.html|GET" : {
+				"count" : 2,
+				"size" : 187
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_acid_philosophers_f5e3.html|GET" : {
+				"count" : 1,
+				"size" : 10080
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_addicted_to_bass_7f9b.html|GET" : {
+				"count" : 1,
+				"size" : 915
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_adrian_bamforth_6805.html|GET" : {
+				"count" : 2,
+				"size" : 163
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_boredom_at_its_best_083f.html|GET" : {
+				"count" : 1,
+				"size" : 793
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_cesidian_root_eed7.html|GET" : {
+				"count" : 1,
+				"size" : 1687
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_chotch_8264.html|GET" : {
+				"count" : 1,
+				"size" : 8389
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_erol_gng”r_b6b1.html|GET" : {
+				"count" : 1,
+				"size" : 1397
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_euphanasia_59b5.html|GET" : {
+				"count" : 1,
+				"size" : 236
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_fingle_bunny_c569.html|GET" : {
+				"count" : 1,
+				"size" : 177
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_fob_productions_bdc5.html|GET" : {
+				"count" : 1,
+				"size" : 751
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_glenn_given_191a.html|GET" : {
+				"count" : 1,
+				"size" : 432
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_heavy_isotopes_2a5d.html|GET" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_john_rushman_b4de.html|GET" : {
+				"count" : 1,
+				"size" : 269
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_kadan_kingdom_9ac6.html|GET" : {
+				"count" : 1,
+				"size" : 761
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_kenneth_j._hsu_8936.html|GET" : {
+				"count" : 1,
+				"size" : 934
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_lists_of_irish-americans_f7bb.html|GET" : {
+				"count" : 3,
+				"size" : 937
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_metropolitan_atlanta_rapid_transit_authority_bus_routes_71e0.html|GET" : {
+				"count" : 1,
+				"size" : 670
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_nandeep_bamrah_c890.html|GET" : {
+				"count" : 1,
+				"size" : 231
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_pia_cammarata_ae93.html|GET" : {
+				"count" : 1,
+				"size" : 1189
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_race_against_time_23ef.html|GET" : {
+				"count" : 1,
+				"size" : 704
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_roni_deutch_0c83.html|GET" : {
+				"count" : 1,
+				"size" : 1050
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_the_formula_(2002)_c5db.html|GET" : {
+				"count" : 1,
+				"size" : 3825
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_the_necklace_the_friendship_fbd9.html|GET" : {
+				"count" : 1,
+				"size" : 235
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_uk_copyright_service_c020.html|GET" : {
+				"count" : 5,
+				"size" : 1756
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_unconventional_theories_of_deindustrialization_9990.html|GET" : {
+				"count" : 2,
+				"size" : 2122
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_united_states_60kb_a373.html|GET" : {
+				"count" : 1,
+				"size" : 1139
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_wikipedia_awards_0900.html|GET" : {
+				"count" : 1,
+				"size" : 1460
+			},
+			"wikipedia/en/a/r/t/wikipedia~articles_for_deletion_william-adolphe_bouguereau_gallery_2_2e9f.html|GET" : {
+				"count" : 1,
+				"size" : 43
+			},
+			"wikipedia/en/a/s/h/ashrafiyya.html|GET" : {
+				"count" : 1,
+				"size" : 1307
+			},
+			"wikipedia/en/a/s/t/astron_(spacecraft).html|GET" : {
+				"count" : 1,
+				"size" : 164
+			},
+			"wikipedia/en/a/t/&/at&t_california_1e54.html|GET" : {
+				"count" : 1,
+				"size" : 10763
+			},
+			"wikipedia/en/a/t/_/at_stewart_7fb0.html|GET" : {
+				"count" : 1,
+				"size" : 914
+			},
+			"wikipedia/en/a/t/m/atmospheric_dispersion_model.html|GET" : {
+				"count" : 1,
+				"size" : 965
+			},
+			"wikipedia/en/a/u/d/audio_electronics.html|GET" : {
+				"count" : 1,
+				"size" : 982
+			},
+			"wikipedia/en/a/u/e/auenstein.html|GET" : {
+				"count" : 3,
+				"size" : 1426
+			},
+			"wikipedia/en/a/u/s/ausa.html|GET" : {
+				"count" : 1,
+				"size" : 7842
+			},
+			"wikipedia/en/a/u/s/australian_constitutional_law.html|GET" : {
+				"count" : 1,
+				"size" : 2909
+			},
+			"wikipedia/en/a/u/s/australian_place_names_of_aboriginal_origin_0995.html|GET" : {
+				"count" : 1,
+				"size" : 19967
+			},
+			"wikipedia/en/a/u/s/australian_referendum,_1906.html|GET" : {
+				"count" : 1,
+				"size" : 3785
+			},
+			"wikipedia/en/a/u/t/autoconfiguration.html|GET" : {
+				"count" : 1,
+				"size" : 5590
+			},
+			"wikipedia/en/a/v/a/category~avatars_of_captain_universe_54b0.html|GET" : {
+				"count" : 1,
+				"size" : 187
+			}
+		},
+		"requester|requested|verb" : {
+			"Bazinet The Chivalrous|wikipedia/en/a/n/t/antrim_(town),_new_hampshire_47a2.html|GET" : {
+				"count" : 1,
+				"size" : 8857
+			},
+			"Bedard The Avaricious|wikipedia/en/a/l/f/alf_padgham_2a7e.html|GET" : {
+				"count" : 1,
+				"size" : 954
+			},
+			"Blob The Endurable|wikipedia/en/a/n/t/antennae_galaxy_a739.html|GET" : {
+				"count" : 1,
+				"size" : 6507
+			},
+			"Brown The Unwieldy|wikipedia/en/a/n/t/antrim_(town),_new_hampshire_47a2.html|GET" : {
+				"count" : 1,
+				"size" : 8857
+			},
+			"Cat The Brave|wikipedia/en/a/m/s/amstrad_pcw_843e.html|GET" : {
+				"count" : 1,
+				"size" : 2672
+			},
+			"Cat The Brave|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_4_good_habits_24d3.html|GET" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Denis The Pleasant|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_nandeep_bamrah_c890.html|GET" : {
+				"count" : 1,
+				"size" : 231
+			},
+			"Dube The Alleged|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_addicted_to_bass_7f9b.html|GET" : {
+				"count" : 1,
+				"size" : 915
+			},
+			"Dube The Alleged|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_united_states_60kb_a373.html|GET" : {
+				"count" : 1,
+				"size" : 1139
+			},
+			"Ego The Sour|wikipedia/en/a/n/a/anarchism_(theory).html|GET" : {
+				"count" : 1,
+				"size" : 892
+			},
+			"Erg-1 The Flat|wikipedia/en/a/n/d/andrew_fuller_dbce.html|GET" : {
+				"count" : 1,
+				"size" : 159
+			},
+			"Erg-1 The Flat|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_euphanasia_59b5.html|GET" : {
+				"count" : 1,
+				"size" : 236
+			},
+			"Gregg The Unbecoming|wikipedia/en/a/i/b/aibetsu,_hokkaido_712f.html|GET" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Gregg The Unbecoming|wikipedia/en/a/k/a/akayev,_askar_2392.html|GET" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Gregg The Unbecoming|wikipedia/en/a/n/d/andy_moog_a85d.html|GET" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Gregg The Unbecoming|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_adrian_bamforth_6805.html|GET" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Gregg The Unbecoming|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_heavy_isotopes_2a5d.html|GET" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Gregg The Unbecoming|wikipedia/en/a/u/e/auenstein.html|GET" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Hancock The Melodic|wikipedia/en/a/p/r/apremont,_ain_fbab.html|GET" : {
+				"count" : 1,
+				"size" : 3339
+			},
+			"Henry The Tiresome|wikipedia/en/a/m/a/amali da.html|GET" : {
+				"count" : 1,
+				"size" : 1005
+			},
+			"Hercules The Big|wikipedia/en/a/n/a/anarchism_(theory).html|GET" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Humphrey The Powerless|wikipedia/en/a/n/d/andrei_zhdanov_9129.html|GET" : {
+				"count" : 1,
+				"size" : 7376
+			},
+			"Husk The Anchored|wikipedia/en/a/l/e/alexei_eremenko,_junior_9f03.html|GET" : {
+				"count" : 1,
+				"size" : 646
+			},
+			"Husk The Anchored|wikipedia/en/a/s/t/astron_(spacecraft).html|GET" : {
+				"count" : 1,
+				"size" : 164
+			},
+			"Jack-Jack The Safe|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_lists_of_irish-americans_f7bb.html|GET" : {
+				"count" : 1,
+				"size" : 937
+			},
+			"Lacroix The Heavenly|wikipedia/en/a/_/l/a_little_soap_and_water_00b5.html|GET" : {
+				"count" : 1,
+				"size" : 856
+			},
+			"Lacroix The Heavenly|wikipedia/en/a/i/r/air-augmented_rocket.html|GET" : {
+				"count" : 1,
+				"size" : 737
+			},
+			"Lacroix The Heavenly|wikipedia/en/a/l/e/alexander_du_toit_656b.html|GET" : {
+				"count" : 1,
+				"size" : 778
+			},
+			"Lacroix The Heavenly|wikipedia/en/a/n/g/category~anglican_bishops_of_cloyne_b83a.html|GET" : {
+				"count" : 1,
+				"size" : 825
+			},
+			"Lacroix The Heavenly|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_erol_gng”r_b6b1.html|GET" : {
+				"count" : 1,
+				"size" : 1397
+			},
+			"Lacroix The Heavenly|wikipedia/en/a/s/h/ashrafiyya.html|GET" : {
+				"count" : 1,
+				"size" : 1307
+			},
+			"Lady Bullseye The Round|wikipedia/en/a/p/o/apollo_butterfly.html|GET" : {
+				"count" : 1,
+				"size" : 31038
+			},
+			"Latreille The Illiterate|wikipedia/en/a/u/e/auenstein.html|GET" : {
+				"count" : 1,
+				"size" : 2140
+			},
+			"Lopez The Poorly Superior|wikipedia/en/a/r/c/arcade_publishing_7089.html|GET" : {
+				"count" : 1,
+				"size" : 800
+			},
+			"Lopez The Poorly Superior|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_glenn_given_191a.html|GET" : {
+				"count" : 1,
+				"size" : 432
+			},
+			"Lopez The Poorly Superior|wikipedia/en/a/u/s/ausa.html|GET" : {
+				"count" : 1,
+				"size" : 7842
+			},
+			"Lothian The Gripping|wikipedia/en/a/n/t/antrim_(town),_new_hampshire_47a2.html|GET" : {
+				"count" : 1,
+				"size" : 8857
+			},
+			"Ly The Warped|wikipedia/en/a/_/k/a_kid_for_two_farthings_(film)_b1ed.html|GET" : {
+				"count" : 1,
+				"size" : 1466
+			},
+			"Ly The Warped|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_pia_cammarata_ae93.html|GET" : {
+				"count" : 1,
+				"size" : 1189
+			},
+			"Ly The Warped|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_unconventional_theories_of_deindustrialization_9990.html|GET" : {
+				"count" : 1,
+				"size" : 2122
+			},
+			"Ly The Warped|wikipedia/en/a/u/s/australian_referendum,_1906.html|GET" : {
+				"count" : 1,
+				"size" : 3785
+			},
+			"Maccaig The Tempting|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_wikipedia_awards_0900.html|GET" : {
+				"count" : 1,
+				"size" : 1460
+			},
+			"Maccaig The Tempting|wikipedia/en/a/u/s/australian_place_names_of_aboriginal_origin_0995.html|GET" : {
+				"count" : 1,
+				"size" : 19967
+			},
+			"Macgeorge The Spanish|wikipedia/en/a/n/t/anthony_j._celebrezze,_jr._2b90.html|GET" : {
+				"count" : 1,
+				"size" : 572
+			},
+			"Macknockater The Plaintive|wikipedia/en/a/r/c/archbishop_peter_talbot_f5a4.html|GET" : {
+				"count" : 1,
+				"size" : 914
+			},
+			"Macknockater The Plaintive|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_kenneth_j._hsu_8936.html|GET" : {
+				"count" : 1,
+				"size" : 934
+			},
+			"Macknockater The Plaintive|wikipedia/en/a/t/_/at_stewart_7fb0.html|GET" : {
+				"count" : 1,
+				"size" : 914
+			},
+			"Maclagan The Well-Documented|wikipedia/en/a/l/o/aloe_dichotoma.html|GET" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Man-Thing The Ludicrous|wikipedia/en/a/n/t/antrim_(town),_new_hampshire_47a2.html|GET" : {
+				"count" : 1,
+				"size" : 8857
+			},
+			"Marois The Unnatural|wikipedia/en/a/m/s/amstrad_pcw_843e.html|GET" : {
+				"count" : 1,
+				"size" : 2672
+			},
+			"Marois The Unnatural|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_4_good_habits_24d3.html|GET" : {
+				"count" : 1,
+				"size" : 374
+			},
+			"Mister Fantastic The Separate|wikipedia/en/a/r/c/archer_john_porter_martin_ff63.html|GET" : {
+				"count" : 1,
+				"size" : 2476
+			},
+			"Mister Fantastic The Separate|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_william-adolphe_bouguereau_gallery_2_2e9f.html|GET" : {
+				"count" : 1,
+				"size" : 43
+			},
+			"Moore The Babyish|wikipedia/en/a/r/g/arguisuelas.html|GET" : {
+				"count" : 1,
+				"size" : 142
+			},
+			"Moore The Babyish|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_fingle_bunny_c569.html|GET" : {
+				"count" : 1,
+				"size" : 177
+			},
+			"Moore The Babyish|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_metropolitan_atlanta_rapid_transit_authority_bus_routes_71e0.html|GET" : {
+				"count" : 1,
+				"size" : 670
+			},
+			"Moore The Babyish|wikipedia/en/a/v/a/category~avatars_of_captain_universe_54b0.html|GET" : {
+				"count" : 1,
+				"size" : 187
+			},
+			"Munn The Vivacious|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_chotch_8264.html|GET" : {
+				"count" : 1,
+				"size" : 8389
+			},
+			"Nightcrawler The Verifiable|wikipedia/en/a/g/u/agust¡n_morales_c694.html|GET" : {
+				"count" : 1,
+				"size" : 599
+			},
+			"Nightcrawler The Verifiable|wikipedia/en/a/m/e/america's_got_talent_1_9004.html|GET" : {
+				"count" : 1,
+				"size" : 5907
+			},
+			"Nightcrawler The Verifiable|wikipedia/en/a/m/e/american_youth_soccer_organization_b00f.html|GET" : {
+				"count" : 1,
+				"size" : 6040
+			},
+			"Nightcrawler The Verifiable|wikipedia/en/a/n/d/andrei_zyyagintsev_f566.html|GET" : {
+				"count" : 1,
+				"size" : 728
+			},
+			"Nightcrawler The Verifiable|wikipedia/en/a/n/d/andr‚s_rivero_agero_1a00.html|GET" : {
+				"count" : 1,
+				"size" : 591
+			},
+			"Nightcrawler The Verifiable|wikipedia/en/a/n/t/anthony_ausgang_5b19.html|GET" : {
+				"count" : 1,
+				"size" : 722
+			},
+			"Nightcrawler The Verifiable|wikipedia/en/a/r/s/arseny_koreshchenko_1af6.html|GET" : {
+				"count" : 1,
+				"size" : 4270
+			},
+			"Nightcrawler The Verifiable|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_acid_philosophers_f5e3.html|GET" : {
+				"count" : 1,
+				"size" : 10080
+			},
+			"Nightcrawler The Verifiable|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_fob_productions_bdc5.html|GET" : {
+				"count" : 1,
+				"size" : 751
+			},
+			"Nightcrawler The Verifiable|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_kadan_kingdom_9ac6.html|GET" : {
+				"count" : 1,
+				"size" : 761
+			},
+			"Nightcrawler The Verifiable|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_race_against_time_23ef.html|GET" : {
+				"count" : 1,
+				"size" : 704
+			},
+			"Pigeon The Shocking|wikipedia/en/a/t/&/at&t_california_1e54.html|GET" : {
+				"count" : 1,
+				"size" : 10763
+			},
+			"Pineault The Enraged|wikipedia/en/a/r/e/area_code_514.html|GET" : {
+				"count" : 1,
+				"size" : 870
+			},
+			"Pineault The Enraged|wikipedia/en/a/t/m/atmospheric_dispersion_model.html|GET" : {
+				"count" : 1,
+				"size" : 965
+			},
+			"Pineault The Enraged|wikipedia/en/a/u/d/audio_electronics.html|GET" : {
+				"count" : 1,
+				"size" : 982
+			},
+			"Poissant The Required|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_adrian_bamforth_6805.html|GET" : {
+				"count" : 1,
+				"size" : 327
+			},
+			"Poissant The Required|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_uk_copyright_service_c020.html|GET" : {
+				"count" : 4,
+				"size" : 1713
+			},
+			"Pratte The Exciting|wikipedia/en/a/i/j/aijaz_ali_69ba.html|GET" : {
+				"count" : 1,
+				"size" : 869
+			},
+			"Pratte The Exciting|wikipedia/en/a/l/t/category~alternate_wikipedia_accounts_of_deskana_7c42.html|GET" : {
+				"count" : 1,
+				"size" : 0
+			},
+			"Rancourt The Past|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_john_rushman_b4de.html|GET" : {
+				"count" : 1,
+				"size" : 269
+			},
+			"Rochette The Humongous|wikipedia/en/a/n/g/angle-preserving.html|GET" : {
+				"count" : 1,
+				"size" : 16450
+			},
+			"Rouillard The Eager|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_uk_copyright_service_c020.html|GET" : {
+				"count" : 1,
+				"size" : 1927
+			},
+			"Rouillard The Eager|wikipedia/en/a/u/e/auenstein.html|GET" : {
+				"count" : 1,
+				"size" : 2140
+			},
+			"Sentry The Little|wikipedia/en/a/u/s/australian_constitutional_law.html|GET" : {
+				"count" : 1,
+				"size" : 2909
+			},
+			"St-Jean The Naive|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_roni_deutch_0c83.html|GET" : {
+				"count" : 1,
+				"size" : 1050
+			},
+			"St-Jean The Naive|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_the_necklace_the_friendship_fbd9.html|GET" : {
+				"count" : 1,
+				"size" : 235
+			},
+			"Sylvestre The Feminine|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_boredom_at_its_best_083f.html|GET" : {
+				"count" : 1,
+				"size" : 793
+			},
+			"Sylvestre The Feminine|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_lists_of_irish-americans_f7bb.html|GET" : {
+				"count" : 1,
+				"size" : 937
+			},
+			"Valerie Hart The Neglected|wikipedia/en/a/k/e/akersia.html|GET" : {
+				"count" : 1,
+				"size" : 19365
+			},
+			"Valiquette The Striking|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_unconventional_theories_of_deindustrialization_9990.html|GET" : {
+				"count" : 1,
+				"size" : 2122
+			},
+			"Verret The Neat|wikipedia/en/a/l/a/alan_sharpe_14aa.html|GET" : {
+				"count" : 1,
+				"size" : 994
+			},
+			"Verret The Neat|wikipedia/en/a/l/b/alberto_colombo_9230.html|GET" : {
+				"count" : 1,
+				"size" : 853
+			},
+			"Verret The Neat|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_lists_of_irish-americans_f7bb.html|GET" : {
+				"count" : 1,
+				"size" : 937
+			},
+			"Wondra The Vengeful|wikipedia/en/a/_/t/a_tiki_scare_is_no_fair_0929.html|GET" : {
+				"count" : 1,
+				"size" : 183
+			},
+			"Wondra The Vengeful|wikipedia/en/a/m/e/american_cheese_(album)_8826.html|GET" : {
+				"count" : 1,
+				"size" : 513
+			},
+			"Wondra The Vengeful|wikipedia/en/a/n/t/antichess.html|GET" : {
+				"count" : 1,
+				"size" : 508
+			},
+			"Wondra The Vengeful|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_cesidian_root_eed7.html|GET" : {
+				"count" : 1,
+				"size" : 1687
+			},
+			"Zatanna The Broadly Cumbersome|wikipedia/en/a/l/i/alisha_sufit_4493.html|GET" : {
+				"count" : 1,
+				"size" : 3899
+			},
+			"Zatanna The Broadly Cumbersome|wikipedia/en/a/l/s/als¢-feh‚r_2852.html|GET" : {
+				"count" : 1,
+				"size" : 3892
+			},
+			"Zatanna The Broadly Cumbersome|wikipedia/en/a/r/g/argumentation_theory.html|GET" : {
+				"count" : 1,
+				"size" : 3529
+			},
+			"Zatanna The Broadly Cumbersome|wikipedia/en/a/r/t/wikipedia~articles_for_deletion_the_formula_(2002)_c5db.html|GET" : {
+				"count" : 1,
+				"size" : 3825
+			},
+			"Zatanna The Broadly Cumbersome|wikipedia/en/a/u/t/autoconfiguration.html|GET" : {
+				"count" : 1,
+				"size" : 5590
+			}
+		}
+	}
+}

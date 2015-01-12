@@ -1,0 +1,405 @@
+{
+	"values" : {
+		"responsecode" : {
+			"200" : {
+				"count" : 13
+			},
+			"300" : {
+				"count" : 1
+			},
+			"304" : {
+				"count" : 4
+			},
+			"404" : {
+				"count" : 1
+			},
+			"500" : {
+				"count" : 1
+			}
+		},
+		"date|httpversion|responsecode|verb" : {
+			"13/May/1973|200|HTTP/1.0|GET" : {
+				"count" : 1,
+				"size" : 937.00
+			},
+			"13/May/1973|304|HTTP/1.1|GET" : {
+				"count" : 1,
+				"size" : 0.00
+			},
+			"15/May/1973|200|HTTP/1.0|GET" : {
+				"count" : 10,
+				"size" : 3324.60
+			},
+			"15/May/1973|200|HTTP/1.0|HEAD" : {
+				"count" : 1,
+				"size" : 4270.00
+			},
+			"15/May/1973|200|HTTP/1.1|GET" : {
+				"count" : 1,
+				"size" : 183.00
+			},
+			"15/May/1973|304|HTTP/1.0|GET" : {
+				"count" : 1,
+				"size" : 954.00
+			},
+			"15/May/1973|304|HTTP/1.1|GET" : {
+				"count" : 2,
+				"size" : 0.00
+			},
+			"15/May/1973|404|HTTP/1.0|GET" : {
+				"count" : 1,
+				"size" : 3892.00
+			},
+			"15/May/1973|500|HTTP/1.1|GET" : {
+				"count" : 1,
+				"size" : 8857.00
+			},
+			"16/May/1973|300|HTTP/1.0|GET" : {
+				"count" : 1,
+				"size" : 1927.00
+			}
+		},
+		"requester|responsecode" : {
+			"Zatanna The Broadly Cumbersome|404" : {
+				"count" : 1,
+				"size" : 3892.00
+			}
+		},
+		"requested|responsecode" : {
+			"wikipedia/en/a/l/s/als¢-feh‚r_2852.html|404" : {
+				"count" : 1,
+				"size" : 3892.00
+			}
+		},
+		"responsecode|verb" : {
+			"404|GET" : {
+				"count" : 1,
+				"size" : 3892.00
+			}
+		},
+		"requested|requester|responsecode" : {
+			"wikipedia/en/a/l/s/als¢-feh‚r_2852.html|Zatanna The Broadly Cumbersome|404" : {
+				"count" : 1,
+				"size" : 3892.00
+			}
+		},
+		"requester|responsecode|verb" : {
+			"Zatanna The Broadly Cumbersome|404|GET" : {
+				"count" : 1,
+				"size" : 3892.00
+			}
+		},
+		"requested|responsecode|verb" : {
+			"wikipedia/en/a/l/s/als¢-feh‚r_2852.html|404|GET" : {
+				"count" : 1,
+				"size" : 3892.00
+			}
+		},
+		"requested|requester|responsecode|verb" : {
+			"wikipedia/en/a/l/s/als¢-feh‚r_2852.html|Zatanna The Broadly Cumbersome|404|GET" : {
+				"count" : 1,
+				"size" : 3892.00
+			}
+		},
+		"date" : {
+			"13/May/1973" : {
+				"uniqueusercount" : 2
+			},
+			"15/May/1973" : {
+				"uniqueusercount" : 12
+			},
+			"16/May/1973" : {
+				"uniqueusercount" : 1
+			}
+		},
+		"dayofweek" : {
+			"sunday" : {
+				"uniqueusercount" : 2
+			},
+			"tuesday" : {
+				"uniqueusercount" : 12
+			},
+			"wednesday" : {
+				"uniqueusercount" : 1
+			}
+		},
+		"hour" : {
+			"17" : {
+				"uniqueusercount" : 1
+			},
+			"18" : {
+				"uniqueusercount" : 1
+			},
+			"19" : {
+				"uniqueusercount" : 12
+			}
+		},
+		"minute" : {
+			"35" : {
+				"uniqueusercount" : 13
+			},
+			"36" : {
+				"uniqueusercount" : 1
+			}
+		},
+		"date|dayofweek" : {
+			"13/May/1973|sunday" : {
+				"uniqueusercount" : 2
+			},
+			"15/May/1973|tuesday" : {
+				"uniqueusercount" : 12
+			},
+			"16/May/1973|wednesday" : {
+				"uniqueusercount" : 1
+			}
+		},
+		"date|hour" : {
+			"13/May/1973|19" : {
+				"uniqueusercount" : 2
+			},
+			"15/May/1973|17" : {
+				"uniqueusercount" : 1
+			},
+			"15/May/1973|19" : {
+				"uniqueusercount" : 11
+			},
+			"16/May/1973|18" : {
+				"uniqueusercount" : 1
+			}
+		},
+		"date|minute" : {
+			"13/May/1973|35" : {
+				"uniqueusercount" : 2
+			},
+			"15/May/1973|35" : {
+				"uniqueusercount" : 11
+			},
+			"15/May/1973|36" : {
+				"uniqueusercount" : 1
+			},
+			"16/May/1973|35" : {
+				"uniqueusercount" : 1
+			}
+		},
+		"dayofweek|hour" : {
+			"sunday|19" : {
+				"uniqueusercount" : 2
+			},
+			"tuesday|17" : {
+				"uniqueusercount" : 1
+			},
+			"tuesday|19" : {
+				"uniqueusercount" : 11
+			},
+			"wednesday|18" : {
+				"uniqueusercount" : 1
+			}
+		},
+		"dayofweek|minute" : {
+			"sunday|35" : {
+				"uniqueusercount" : 2
+			},
+			"tuesday|35" : {
+				"uniqueusercount" : 11
+			},
+			"tuesday|36" : {
+				"uniqueusercount" : 1
+			},
+			"wednesday|35" : {
+				"uniqueusercount" : 1
+			}
+		},
+		"hour|minute" : {
+			"17|35" : {
+				"uniqueusercount" : 1
+			},
+			"18|35" : {
+				"uniqueusercount" : 1
+			},
+			"19|35" : {
+				"uniqueusercount" : 11
+			},
+			"19|36" : {
+				"uniqueusercount" : 1
+			}
+		},
+		"date|dayofweek|hour" : {
+			"13/May/1973|sunday|19" : {
+				"uniqueusercount" : 2
+			},
+			"15/May/1973|tuesday|17" : {
+				"uniqueusercount" : 1
+			},
+			"15/May/1973|tuesday|19" : {
+				"uniqueusercount" : 11
+			},
+			"16/May/1973|wednesday|18" : {
+				"uniqueusercount" : 1
+			}
+		},
+		"date|dayofweek|minute" : {
+			"13/May/1973|sunday|35" : {
+				"uniqueusercount" : 2
+			},
+			"15/May/1973|tuesday|35" : {
+				"uniqueusercount" : 11
+			},
+			"15/May/1973|tuesday|36" : {
+				"uniqueusercount" : 1
+			},
+			"16/May/1973|wednesday|35" : {
+				"uniqueusercount" : 1
+			}
+		},
+		"date|hour|minute" : {
+			"13/May/1973|19|35" : {
+				"uniqueusercount" : 2
+			},
+			"15/May/1973|17|35" : {
+				"uniqueusercount" : 1
+			},
+			"15/May/1973|19|35" : {
+				"uniqueusercount" : 10
+			},
+			"15/May/1973|19|36" : {
+				"uniqueusercount" : 1
+			},
+			"16/May/1973|18|35" : {
+				"uniqueusercount" : 1
+			}
+		},
+		"dayofweek|hour|minute" : {
+			"sunday|19|35" : {
+				"uniqueusercount" : 2
+			},
+			"tuesday|17|35" : {
+				"uniqueusercount" : 1
+			},
+			"tuesday|19|35" : {
+				"uniqueusercount" : 10
+			},
+			"tuesday|19|36" : {
+				"uniqueusercount" : 1
+			},
+			"wednesday|18|35" : {
+				"uniqueusercount" : 1
+			}
+		},
+		"date|dayofweek|hour|minute" : {
+			"13/May/1973|sunday|19|35" : {
+				"uniqueusercount" : 2
+			},
+			"15/May/1973|tuesday|17|35" : {
+				"uniqueusercount" : 1
+			},
+			"15/May/1973|tuesday|19|35" : {
+				"uniqueusercount" : 10
+			},
+			"15/May/1973|tuesday|19|36" : {
+				"uniqueusercount" : 1
+			},
+			"16/May/1973|wednesday|18|35" : {
+				"uniqueusercount" : 1
+			}
+		},
+		"verb" : {
+			"GET" : {
+				"lastrequesttimestamp" : 106425306.0
+			},
+			"HEAD" : {
+				"lastrequesttimestamp" : 106342506.0
+			}
+		},
+		"requester" : {
+			"Bazinet The Chivalrous" : {
+				"lastrequesttimestamp" : 106335306.0
+			},
+			"Bedard The Avaricious" : {
+				"lastrequesttimestamp" : 106342565.0
+			},
+			"Erg-1 The Flat" : {
+				"lastrequesttimestamp" : 106342506.0
+			},
+			"Gregg The Unbecoming" : {
+				"lastrequesttimestamp" : 106342506.0
+			},
+			"Henry The Tiresome" : {
+				"lastrequesttimestamp" : 106342506.0
+			},
+			"Husk The Anchored" : {
+				"lastrequesttimestamp" : 106342506.0
+			},
+			"Lacroix The Heavenly" : {
+				"lastrequesttimestamp" : 106342506.0
+			},
+			"Moore The Babyish" : {
+				"lastrequesttimestamp" : 106342506.0
+			},
+			"Nightcrawler The Verifiable" : {
+				"lastrequesttimestamp" : 106342506.0
+			},
+			"Poissant The Required" : {
+				"lastrequesttimestamp" : 106425306.0
+			},
+			"Sylvestre The Feminine" : {
+				"lastrequesttimestamp" : 106169706.0
+			},
+			"Valerie Hart The Neglected" : {
+				"lastrequesttimestamp" : 106342506.0
+			},
+			"Wondra The Vengeful" : {
+				"lastrequesttimestamp" : 106342506.0
+			},
+			"Zatanna The Broadly Cumbersome" : {
+				"lastrequesttimestamp" : 106342506.0
+			}
+		},
+		"requester|verb" : {
+			"Bazinet The Chivalrous|GET" : {
+				"lastrequesttimestamp" : 106335306.0
+			},
+			"Bedard The Avaricious|GET" : {
+				"lastrequesttimestamp" : 106342565.0
+			},
+			"Erg-1 The Flat|GET" : {
+				"lastrequesttimestamp" : 106342506.0
+			},
+			"Gregg The Unbecoming|GET" : {
+				"lastrequesttimestamp" : 106342506.0
+			},
+			"Henry The Tiresome|GET" : {
+				"lastrequesttimestamp" : 106342506.0
+			},
+			"Husk The Anchored|GET" : {
+				"lastrequesttimestamp" : 106342506.0
+			},
+			"Lacroix The Heavenly|GET" : {
+				"lastrequesttimestamp" : 106342506.0
+			},
+			"Moore The Babyish|GET" : {
+				"lastrequesttimestamp" : 106342506.0
+			},
+			"Nightcrawler The Verifiable|GET" : {
+				"lastrequesttimestamp" : 106342506.0
+			},
+			"Nightcrawler The Verifiable|HEAD" : {
+				"lastrequesttimestamp" : 106342506.0
+			},
+			"Poissant The Required|GET" : {
+				"lastrequesttimestamp" : 106425306.0
+			},
+			"Sylvestre The Feminine|GET" : {
+				"lastrequesttimestamp" : 106169706.0
+			},
+			"Valerie Hart The Neglected|GET" : {
+				"lastrequesttimestamp" : 106342506.0
+			},
+			"Wondra The Vengeful|GET" : {
+				"lastrequesttimestamp" : 106342506.0
+			},
+			"Zatanna The Broadly Cumbersome|GET" : {
+				"lastrequesttimestamp" : 106342506.0
+			}
+		}
+	}
+}
